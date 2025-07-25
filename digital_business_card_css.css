@@ -1,0 +1,36 @@
+body{
+    margin:px;
+    text-align: center;
+
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.avatar{
+    width: 150px;
+    border: 100px;
+}
+
+.card {
+    border: 1px dotted blue;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    width: 400px;
+
+    margin: 0 auto;
+
+    background: #f5ebe0;
+    color: #d32114;
+    border-bottom: 6px solid #d8cefe;
+     
+}
+
+.border-blue{
+    border: 1px dotted blue;
+    font-size: 15px;
+}
+
+.phone_number{
+    margin-top: 5px;
+    font-size: 15px;
+}
